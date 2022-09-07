@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | cut -c6- | grep -vp "[o2468]\t" | cut -f2
+paste - - | cut -f 1
